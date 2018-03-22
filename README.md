@@ -29,3 +29,5 @@
 * Movie Reviews Sentiment Classification: **IMDB Sentiment.ipynb**
 * Capital Letters Recognition: **uppercase.ipynb**
 
+## Presentation Slides:
+- [Workshop Slideshow](https://docs.google.com/presentation/d/1x_4EhzgQpi9XSlKp7B-19pEyiM64cAQ587jm6NBlni0/edit?usp=sharing)
