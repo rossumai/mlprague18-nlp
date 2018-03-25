@@ -7,15 +7,19 @@
   * Detailed instructions:
     * Linux, MacOSX:
       * create a Python virtual environment by running the following in terminal:
-        * pip install virtualenv
-        * virtualenv --system-site-packages pymlprague
-        * source pymlprague/bin/activate
-        * pip install tensorflow==1.5.0 keras==2.1.5 nltk==3.2.5 jupyter
+        ```bash
+        pip install virtualenv
+        virtualenv --system-site-packages pymlprague
+        source pymlprague/bin/activate
+        pip install tensorflow==1.5.0 keras==2.1.5 nltk==3.2.5 jupyter
+        ```
     * MacOSX, Windows:
-      * If you don’t have Python installed you can download and install Anaconda: https://conda.io/docs/user-guide/install/index.html
+      * If you don’t have Python installed you can download and [install Anaconda](https://conda.io/docs/user-guide/install/index.html)
       * You can then create a virtual environment with command line:
-        * conda create -n pymlprague tensorflow=1.5.0 keras=2.1.5 nltk=3.2.5 jupyter
-        * source activate pymlprague
+        ```bash
+        conda create -n pymlprague tensorflow=1.5.0 keras=2.1.5 nltk=3.2.5 jupyter
+        source activate pymlprague
+        ```
     * You can find detailed steps for Keras and Tensorflow under the following links, just in case:
         * https://keras.io/#installation
         * https://www.tensorflow.org/install/
