@@ -1,5 +1,11 @@
 # Deep Learning for Text Processing Workshop at Machine Learning Prague 2018
 
+First, for the 2019 update visit
+
+	http://tinyurl.com/mlprague19-slides
+
+which also has links to two colab notebooks with the 2019 edition of this workshop.
+
 ## Instructions for attendees of NLP workshop:
 * Please come with a working Python installation that includes:
   * Jupyter notebook server
